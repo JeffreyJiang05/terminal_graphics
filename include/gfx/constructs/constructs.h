@@ -1,0 +1,7 @@
+#include "gfx/constructs/construct_data.h"
+#include "gfx/constructs/sphere.h"
+#include "gfx/constructs/cube.h"
+#include "gfx/constructs/cylindrical.h"
+#include "gfx/constructs/prism.h"
+#include "gfx/constructs/pyramid.h"
+#include "gfx/constructs/torus.h"
